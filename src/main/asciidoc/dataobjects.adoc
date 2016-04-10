@@ -1,0 +1,17 @@
+= Cheatsheets
+
+[[MyData]]
+== MyData
+
+++++
+ Created by dan on 4/9/16.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[data]]`data`|`String`|-
+|===
+
